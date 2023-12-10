@@ -1,0 +1,48 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - ask_what_is_esport
+  - request_esport_competitions
+  - request_esport_news
+
+actions:
+  - action_display_esport_competitions
+  - action_provide_esport_news
+
+responses:
+  utter_greet:
+  - text: "My name is Robo. I will answer your queries about E-Sports"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_explain_esport:
+  - text: "Esports, also known as electronic sports, are competitive video games where individuals or teams compete against each other. The competitions can range from local amateur tournaments to professional championships with multi-million dollar prize pools. Popular esports games include League of Legends, Dota 2, and Fortnite."
+
+  utter_esport_competitions:
+  - text: "Here are some of the upcoming esport competitions..."
+  
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

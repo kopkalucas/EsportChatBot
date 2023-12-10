@@ -1,0 +1,13 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJydjkEKgDAMBL/SB/iCfkUkBAla1LQkqR5K/26h3gvedmAYdi51ciUJ3YCrhcjelT6A8SLvPjiDGnFzs5I0J3BD824TIquDRjYjga7+KwxeoB7w7GgQFEhTlBZcXs5aU90=": "utter_explain_esport",
+    "eJydjlEKg0AMRK+yB/AEexWREMqgoTYuSbSFxbt3wfqt9G8G3jymr3uXajFsxI+QRXOqRyDlF3L6lVk8oI1dHdYY0VYjp9GA2C8cawSMDvQ/w8UL9ie9Jw4SJ3hZ7OYlfMrMoufmlnf4AoFtdjc=": "action_listen",
+    "eJwti0sKgDAMBa+SA3iCXkUklPIWAfsxSd2U3t2K7mZgZh9zo9EUN8fkUkug8QGXmBHol1PMUVbbDboaKUs9kOLqMGdYq+qcam5weReb83gAsvEk8A==": "action_display_esport_competitions",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhKLWwNLW4JD61uCC/qCQ+OT+3ILUkE6SluJY4k1MyiwtyEiuxmkCadbEAK2hRDw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhKLWwNLW4JD61uCC/qCQ+L7W8uLY2FgCYRiGP": "action_provide_esport_news",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhKLWwNLW4JD61uCC/qCQ+L7W8uJY4EwuK8ssyU1JRdBJnfCwA6pNG7w==": "action_listen"
+  }
+}

@@ -1,0 +1,33 @@
+[
+    {
+      "name": "The International",
+      "game": "Dota 2",
+      "date": "2023-08-01",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "League of Legends World Championship",
+      "game": "League of Legends",
+      "date": "2023-10-01",
+      "location": "Seoul, South Korea"
+    },
+    {
+      "name": "CS:GO Major Championship",
+      "game": "Counter-Strike: Global Offensive",
+      "date": "2023-06-01",
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Overwatch League Grand Finals",
+      "game": "Overwatch",
+      "date": "2023-09-01",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "name": "Fortnite World Cup",
+      "game": "Fortnite",
+      "date": "2023-07-01",
+      "location": "Online"
+    }
+ ]
+  

@@ -1,0 +1,20 @@
+version: "3.1"
+
+stories:
+
+- story: user asks what is esport
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_what_is_esport
+  - action: utter_explain_esport
+
+- story: user requests esport competitions
+  steps:
+  - intent: request_esport_competitions
+  - action: action_display_esport_competitions
+
+- story: user requests esport news
+  steps:
+  - intent: request_esport_news
+  - action: action_provide_esport_news
