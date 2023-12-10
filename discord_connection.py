@@ -43,7 +43,7 @@ def setup_bot():
     return bot
 
 def main():
-    TOKEN = "MTE4MTk4MDk5MTkzMDI1MzQzMw.GOhtXq.ydrzOJtUz5PwViAtI9XxDXE_-UBxm4V1R_xNVo"
+    TOKEN = "My discord Token"
     if not TOKEN:
         logger.error("Discord token not found.")
         return
